@@ -1,1 +1,2 @@
 # SpiderApplication
+使用webmagic和jsoup爬取电子书网站并持久化的框架 目前只实现了文件持久化
